@@ -61,7 +61,8 @@ Features:
 
 2. Use the provided CLI to manage your workout routines through basic CRUD operations.
    
-    ![image](https://github.com/biptr/workout_application/assets/152027018/3ec27261-703b-40de-8c8d-a36863f07a4d)
+    ![image](https://github.com/biptr/workout_app/assets/152027018/46ff1f43-bafb-4af0-909e-cf64bcc7d679)
+
 
 
 
