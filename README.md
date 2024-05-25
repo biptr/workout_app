@@ -29,6 +29,10 @@ Features:
 * Update: Modify existing workout details.
 * Delete: Remove workout routines and exercises.
 
+### Prerequisites
+
+A database setup with MongoDB.
+
 
 ### Installation
 
